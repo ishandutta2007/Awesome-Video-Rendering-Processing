@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Video-Rendering-Processing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Video-Rendering-Processing?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Video-Rendering-Processing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Video-Rendering-Processing?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Video-Rendering-Processing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Video-Rendering-Processing?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Video-Rendering-Processing/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Video-Rendering-Processing?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -74,7 +74,7 @@ Key architectural concepts and search keywords covered include:
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* ⭐
+*Sorted by GitHub_Stars_Count (Descending)* ⭐
 
 - **[OpenCV](https://github.com/opencv/opencv)** <a href="https://github.com/opencv/opencv/stargazers"><img src="https://img.shields.io/github/stars/opencv/opencv?style=social&color=white" alt="OpenCV Stars"/></a>  
   **Open Source Computer Vision Library**, Apache-2.0 licensed. Industry-standard library for real-time computer vision, video frame manipulation, filtering, motion analysis, and hardware-accelerated image pipelines. **Best for frame-level computer vision and processing**.
